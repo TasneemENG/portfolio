@@ -1,6 +1,6 @@
 # Tasneem Khaled, Flutter Developer
 
-Flutter developer and 2026 Computer Science graduate from Zagazig University (GPA 3.83/4.00, ranked 2nd in department). Graduate of ITI's 150-hour Flutter program and former trainee Flutter developer at ITD. Based in Giza, Egypt, open to remote Flutter opportunities.
+Flutter developer and 2026 Computer Science graduate from Zagazig University (GPA 3.83/4.00, ranked 2nd in department). Graduate of ITI's 150-hour Flutter program and former trainee Flutter developer at ITD. Based in Zagazig, Ash Sharqia, Egypt, open to remote Flutter opportunities.
 
 ## Featured projects
 
